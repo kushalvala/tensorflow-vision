@@ -1,9 +1,6 @@
 # Tensorflow 
 
-![TensorFlow](twitter.com/TensorFlow/photo)
-
-
-Projects, Codes and Theory of Deep Learning and Implementation in TensorFlow Framework.
+## Projects on Deep Learning in TensorFlow Framework
 
 
 Projects:
