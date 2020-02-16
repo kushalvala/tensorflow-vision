@@ -1,6 +1,6 @@
 # Tensorflow 
 
-![TensorFlow](https://twitter.com/TensorFlow/photo)
+![TensorFlow](twitter.com/TensorFlow/photo)
 
 
 Projects, Codes and Theory of Deep Learning and Implementation in TensorFlow Framework.
