@@ -10,6 +10,6 @@ Projects:
 1. Pneumonia Detection
 
 2. Intel Image Classification 
-    a. LeNet-5
-    b. AlexNet
-    c. Inception Module
+    1. LeNet-5
+    2. AlexNet
+    3. Inception Module
