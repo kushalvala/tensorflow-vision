@@ -1,7 +1,5 @@
 # Tensorflow
 
-![](https://twitter.com/TensorFlow/photo)
-
 ### Projects,Codes and Theory of Neural Networks
 
 
