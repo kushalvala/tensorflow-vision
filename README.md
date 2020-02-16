@@ -1,4 +1,6 @@
-# Tensorflow ![Logo](https://twitter.com/TensorFlow/photo)
+# Tensorflow
+
+![](https://twitter.com/TensorFlow/photo)
 
 ### Projects,Codes and Theory of Neural Networks
 
