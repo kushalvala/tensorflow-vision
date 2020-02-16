@@ -1,6 +1,6 @@
 # Tensorflow 
 
-![TensorFlow logo](https://www.redbubble.com/people/james9834/works/27731159-tensorflow-logo)
+![TensorFlow logo](https://twitter.com/TensorFlow/photo)
 
 Projects, Codes and Theory of Deep Learning and Implementation in TensorFlow Framework.
 
