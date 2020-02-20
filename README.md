@@ -11,5 +11,6 @@ Projects:
     1. LeNet-5
     2. AlexNet
     3. VGG-16
-    4. ResNet-50
-    5. Inception-v1
+    4. VGG-19
+    5. ResNet-50
+    6. Inception-v1
